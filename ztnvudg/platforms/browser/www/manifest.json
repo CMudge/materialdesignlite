@@ -1,10 +1,10 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "helloworld",
-  "short_name": "helloworld",
+  "name": "Material Design graphs",
+  "short_name": "Material Design graphs",
   "version": "fullmaterialtemplate",
-  "description": "Hello World sample application that responds to the deviceready event.",
+  "description": "Material Design with graphs only.",
   "author": "PhoneGap Team",
   "icons": [],
   "start_url": "index.html"
